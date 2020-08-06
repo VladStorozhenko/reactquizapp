@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/VladStorozhenko/reactquizapp.git/static/css/main.f0358a99.chunk.css",
-    "main.js": "/VladStorozhenko/reactquizapp.git/static/js/main.5ba4aaf0.chunk.js",
-    "main.js.map": "/VladStorozhenko/reactquizapp.git/static/js/main.5ba4aaf0.chunk.js.map",
-    "runtime-main.js": "/VladStorozhenko/reactquizapp.git/static/js/runtime-main.53044576.js",
-    "runtime-main.js.map": "/VladStorozhenko/reactquizapp.git/static/js/runtime-main.53044576.js.map",
-    "static/js/2.15c077ff.chunk.js": "/VladStorozhenko/reactquizapp.git/static/js/2.15c077ff.chunk.js",
-    "static/js/2.15c077ff.chunk.js.map": "/VladStorozhenko/reactquizapp.git/static/js/2.15c077ff.chunk.js.map",
-    "index.html": "/VladStorozhenko/reactquizapp.git/index.html",
-    "precache-manifest.0459d231e50dc77bbaa9b9010beb77a8.js": "/VladStorozhenko/reactquizapp.git/precache-manifest.0459d231e50dc77bbaa9b9010beb77a8.js",
-    "service-worker.js": "/VladStorozhenko/reactquizapp.git/service-worker.js",
-    "static/css/main.f0358a99.chunk.css.map": "/VladStorozhenko/reactquizapp.git/static/css/main.f0358a99.chunk.css.map",
-    "static/js/2.15c077ff.chunk.js.LICENSE.txt": "/VladStorozhenko/reactquizapp.git/static/js/2.15c077ff.chunk.js.LICENSE.txt"
+    "main.css": "/VladStorozhenko/reactquizapp/static/css/main.f0358a99.chunk.css",
+    "main.js": "/VladStorozhenko/reactquizapp/static/js/main.5ba4aaf0.chunk.js",
+    "main.js.map": "/VladStorozhenko/reactquizapp/static/js/main.5ba4aaf0.chunk.js.map",
+    "runtime-main.js": "/VladStorozhenko/reactquizapp/static/js/runtime-main.66e7025f.js",
+    "runtime-main.js.map": "/VladStorozhenko/reactquizapp/static/js/runtime-main.66e7025f.js.map",
+    "static/js/2.15c077ff.chunk.js": "/VladStorozhenko/reactquizapp/static/js/2.15c077ff.chunk.js",
+    "static/js/2.15c077ff.chunk.js.map": "/VladStorozhenko/reactquizapp/static/js/2.15c077ff.chunk.js.map",
+    "index.html": "/VladStorozhenko/reactquizapp/index.html",
+    "precache-manifest.cd8dcfcdf971b7f446590ed8664338df.js": "/VladStorozhenko/reactquizapp/precache-manifest.cd8dcfcdf971b7f446590ed8664338df.js",
+    "service-worker.js": "/VladStorozhenko/reactquizapp/service-worker.js",
+    "static/css/main.f0358a99.chunk.css.map": "/VladStorozhenko/reactquizapp/static/css/main.f0358a99.chunk.css.map",
+    "static/js/2.15c077ff.chunk.js.LICENSE.txt": "/VladStorozhenko/reactquizapp/static/js/2.15c077ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53044576.js",
+    "static/js/runtime-main.66e7025f.js",
     "static/js/2.15c077ff.chunk.js",
     "static/css/main.f0358a99.chunk.css",
     "static/js/main.5ba4aaf0.chunk.js"
